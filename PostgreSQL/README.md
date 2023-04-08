@@ -1,0 +1,3 @@
+PostgreSQL is an open-source relational database management system (RDBMS) that is known for its advanced features and performance. It was developed in the 1980s at the University of California and has since become one of the most popular open-source RDBMSs.
+
+PostgreSQL is known for its reliability, scalability, and support for advanced SQL features. It supports a wide range of programming languages, including _Python_, _Java_, _PHP_, and _C++_, and is compatible with a veriety of operating systems, including _Windows_, _Linux_, and _macOS_.
