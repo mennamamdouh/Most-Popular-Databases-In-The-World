@@ -1,0 +1,3 @@
+MySQL is an open-source relational database management system (RDBMS) that is widely used for web applications, business applications, and other data-driven applications. It was created in the mid-1990s by Swedish software engineer __Micheal Widenius__ and is now owned by Oracle Corporation.
+
+MySQL is known for its performance, scalability, and ease of use. It supports a variety of programming languages, including _Python_, _Java_, _PHP_, and _C++_, and is compatible with a wide range of operating systems, including _Windows_, _Linux_, and _macOS_.
